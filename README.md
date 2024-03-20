@@ -29,7 +29,8 @@ pip install nltk
 To use the decryption tool, run the script from your command line:
 
 ```bash
-python caesar_cipher_decryption.py
+cd ~/caesar-cipher/
+python encryption.py
 ```
 Follow the interactive prompts to input the encrypted text and validate the potential decrypted outputs.
 
